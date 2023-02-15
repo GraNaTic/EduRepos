@@ -1,0 +1,15 @@
+C:\Users\Grisha\source\repos\LR_4_Classes\FrontScreen\bin\Debug\net6.0\FrontScreen.exe
+C:\Users\Grisha\source\repos\LR_4_Classes\FrontScreen\bin\Debug\net6.0\FrontScreen.deps.json
+C:\Users\Grisha\source\repos\LR_4_Classes\FrontScreen\bin\Debug\net6.0\FrontScreen.runtimeconfig.json
+C:\Users\Grisha\source\repos\LR_4_Classes\FrontScreen\bin\Debug\net6.0\FrontScreen.dll
+C:\Users\Grisha\source\repos\LR_4_Classes\FrontScreen\bin\Debug\net6.0\FrontScreen.pdb
+C:\Users\Grisha\source\repos\LR_4_Classes\FrontScreen\obj\Debug\net6.0\FrontScreen.csproj.AssemblyReference.cache
+C:\Users\Grisha\source\repos\LR_4_Classes\FrontScreen\obj\Debug\net6.0\FrontScreen.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Grisha\source\repos\LR_4_Classes\FrontScreen\obj\Debug\net6.0\FrontScreen.AssemblyInfoInputs.cache
+C:\Users\Grisha\source\repos\LR_4_Classes\FrontScreen\obj\Debug\net6.0\FrontScreen.AssemblyInfo.cs
+C:\Users\Grisha\source\repos\LR_4_Classes\FrontScreen\obj\Debug\net6.0\FrontScreen.csproj.CoreCompileInputs.cache
+C:\Users\Grisha\source\repos\LR_4_Classes\FrontScreen\obj\Debug\net6.0\FrontScreen.dll
+C:\Users\Grisha\source\repos\LR_4_Classes\FrontScreen\obj\Debug\net6.0\refint\FrontScreen.dll
+C:\Users\Grisha\source\repos\LR_4_Classes\FrontScreen\obj\Debug\net6.0\FrontScreen.pdb
+C:\Users\Grisha\source\repos\LR_4_Classes\FrontScreen\obj\Debug\net6.0\FrontScreen.genruntimeconfig.cache
+C:\Users\Grisha\source\repos\LR_4_Classes\FrontScreen\obj\Debug\net6.0\ref\FrontScreen.dll
